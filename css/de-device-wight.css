@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) {
+  .de-dropdown {
+    background: white;
+    color: black;
+  }
+  .de-dropdown li {
+    padding: 10px !important;
+  }
+  .de-dropdown li a {
+    color: #333 !important;
+    padding: 0px;
+  }
+  .desc {
+  padding: 0px 30px;
+}
+.logo {
+  padding: 20px;
+}
+.de_nav .main_ul .nav-item .link-active {
+  color: orange !important;
+}
+.de-dropdown li a:hover {
+  color: orange !important;
+}

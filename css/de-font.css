@@ -1,0 +1,26 @@
+@font-face {
+  font-family: PlayfairDisplay-Regular;
+  src: url('playfair-display/PlayfairDisplay-Regular.otf');
+}@font-face {
+  font-family: PlayfairDisplaySC-Regular;
+  src: url('playfair-display/PlayfairDisplaySC-Regular.otf');
+}@font-face {
+  font-family: PlayfairDisplay-Bold;
+  src: url('playfair-display/PlayfairDisplay-Bold.otf');
+}
+@font-face {
+  font-family: Roboto-Black;
+  src: url('Roboot/Roboto-Black.ttf');
+}
+@font-face {
+  font-family: Roboto-Bold;
+  src: url('Roboot/Roboto-Bold.ttf');
+}
+@font-face {
+  font-family: Roboto-Regular;
+  src: url('Roboot/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: Roboto-Thin;
+  src: url('Roboot/Roboto-Thin.ttf');
+}
